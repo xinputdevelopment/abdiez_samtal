@@ -1,4 +1,4 @@
-# 🎙️ abdiez_samtal
+# 🎙️ xinput_samtal
 
 ## 📜 Description
 This script lets staff members talk directly with players in an immersive way — no need to go out of character (OOC) or leave noclip. It keeps everything smooth, discreet, and roleplay-friendly so you can handle situations without breaking immersion.
