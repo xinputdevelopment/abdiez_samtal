@@ -18,7 +18,7 @@ This script lets staff members talk directly with players in an immersive way �
 2. Place the folder in your server’s `resources` directory.
 3. Add this to your `server.cfg`:
    ```
-   ensure abdiez_samtal
+   ensure xinput_samtal
    ```
 
 ---
@@ -30,4 +30,4 @@ This script lets staff members talk directly with players in an immersive way �
 ---
 
 ## 🖊️ Credits
-Made by **AbdieZ** — keep it immersive, brur.
+Made by **xinput** — keep it immersive, brur.
